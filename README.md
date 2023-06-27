@@ -1,17 +1,17 @@
 # Charquican de Tuercas - 2023
-< Todo lo que esté entre llaves debe ser editado por ustedes y posteriormente eliminado>
+Todo lo que esté entre llaves debe ser editado por ustedes y posteriormente eliminado
 
-< Insertar una imagen del proyecto terminado, de vista general, como el que aparece abajo>
+Insertar una imagen del proyecto terminado, de vista general, como el que aparece abajo
 
 ### Historia del Battlebot
-< Contar la historia de vida de su battlebot.>
+Contar la historia de vida de su battlebot.
   
 ![Robot Ejemplo](/multimedia/robot_ejemplo.png)
 
 ## Integrantes
-- <Gabriel Olivares S.> - < FCFM >
-- <Felipe López> - < FCFM >
-- <Matías Aliaga> - < FAU >
+- Gabriel Olivares S. - FCFM
+- Felipe López - FCFM
+- Matías Aliaga - FAU 
 
 
 ## Descripción del proyecto
