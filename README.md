@@ -19,6 +19,10 @@ Contar la historia de vida de su battlebot.
 ### Estrategia utilizada
 
 Se tomó la desición de utilizar dos armas como método de ataque y defensa, la primera corresponde a una sierra de disco como principal al frente del robot y una palanca de 3 dientes en la parte trasera como defensa.
+
+Por otra parte, para la operación del robot contrololado por una placa ESP8622 se plantea usar un control mediante la aplicación de uso gratuito BLYNK.IOT, designando botones para las armas, encendido-apagado, ademas de un control de velocidad con el respectivo joystick de direcciones tal como se plasma en la imagen siguiente.
+
+![Robot Ejemplo](/multimedia/blynk.jpg)
   
 #### Ofensiva - Sierra circular
 
