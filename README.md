@@ -22,7 +22,7 @@ Se tomó la desición de utilizar dos armas como método de ataque y defensa, la
 
 Por otra parte, para la operación del robot contrololado por una placa ESP8622 se plantea usar un control mediante la aplicación de uso gratuito BLYNK.IOT, designando botones para las armas, encendido-apagado, ademas de un control de velocidad con el respectivo joystick de direcciones tal como se plasma en la imagen siguiente.
 
-![Robot Ejemplo](/multimedia/blynk.jpg)
+![Robot Ejemplo](/multimedia/blynk.jpeg)
   
 #### Ofensiva - Sierra circular
 
