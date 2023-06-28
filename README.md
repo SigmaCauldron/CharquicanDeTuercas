@@ -3,7 +3,7 @@
 ### Historia del Battlebot
 Contar la historia de vida de su battlebot.
   
-![Robot Ejemplo](/multimedia/robot_ejemplo.png)
+![Robot Ejemplo](/multimedia/carcasa05.png)
 
 ## Integrantes
 - Gabriel Olivares S. - FCFM
