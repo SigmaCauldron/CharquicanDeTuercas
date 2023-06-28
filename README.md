@@ -1,7 +1,7 @@
 # Charquican de Tuercas - 2023
 
 ### Historia del Battlebot
-Contar la historia de vida de su battlebot.
+Nació por accidente en un laboratorio secreto. El laboratorio era pobre y siempre tenía hambre, hasta que lamentablemente no tenía qué comer. Con el tiempo, creció y luchó por lo que más deseaba: hacerse un "charquicán de tuercas".
   
 ![Robot Ejemplo](/multimedia/carcasa05.png)
 
