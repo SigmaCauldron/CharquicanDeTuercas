@@ -34,7 +34,6 @@ Ubicada en la parte trasera, tiene la función de voltear o levantar al robot co
 ![Robot Ejemplo](/multimedia/palanca.png)
 
 ### Diagrama funcional
-< Diagrama de bloques general de funcionamiento. Se sugiere un esquema de sistemas, completo.>
 
 ![Robot Ejemplo](/multimedia/Diagrama.png)
 
